@@ -1,0 +1,58 @@
+File contains 6000 records
+
+First person: Hugo L Casey 6/5/1990
+Last person: Wilber J Ordway 11/5/1971
+
+Males: 3064
+Famale: 2936
+
+1393 unique first names found:
+        John:123       James:118     Michael:113      Robert: 91
+       David: 90     William: 74        Mary: 66      Thomas: 58
+      Joseph: 56     Richard: 56     Charles: 46 Christopher: 38
+     Kenneth: 36        Mark: 36   Elizabeth: 36       Maria: 34
+        Paul: 33    Jennifer: 33     Barbara: 32    Patricia: 31
+    Margaret: 31     Timothy: 29      Steven: 29      Edward: 28
+     Dorothy: 27     Matthew: 27        Lisa: 26       Susan: 26
+       Jason: 26       Linda: 26     Raymond: 25       Karen: 25
+        Jose: 25      Donald: 24       Kevin: 24     Stephen: 24
+      Ronald: 24      George: 23        Ruth: 22       Brian: 22
+      Sandra: 21       Helen: 21       Laura: 20       Donna: 20
+     Shirley: 19     Jessica: 19       Larry: 19       Frank: 19
+      Daniel: 19    Virginia: 18     Heather: 18      Andrew: 18
+       Betty: 18       Nancy: 17      Pamela: 17       Joyce: 17
+     Gregory: 17     Anthony: 17       Terry: 17   Christine: 16
+         Amy: 16        Gary: 16      Sharon: 16       Shawn: 15
+      Angela: 15       Alice: 15         Ann: 15       Scott: 15
+    Michelle: 15      Martha: 15      Dennis: 15       Jerry: 15
+     Melissa: 14      Arthur: 14       Carol: 14   Christina: 14
+       Henry: 14       Roger: 14     Jeffrey: 14       Debra: 14
+       Bruce: 13       Annie: 13        Todd: 13        Alan: 13
+        Lori: 13     Deborah: 13       Oscar: 13        Jack: 13
+       Marie: 13     Carolyn: 13      Evelyn: 13       Janet: 13
+      Leslie: 13        Eric: 13        Ryan: 12        Anna: 12
+   Catherine: 12       Keith: 12      Eugene: 12        Adam: 12
+
+Amount of people by state: 
+AK: 27     AL: 94     AR: 59     AZ:102     CA:666     CO: 96     CT: 80
+DC: 22     DE: 19     FL:324     GA:187     HI: 28     IA: 74     ID: 22
+IL:261     IN:138     KS: 87     KY:108     LA:108     MA:173     MD:113
+ME: 25     MI:191     MN:124     MO:131     MS: 65     MT: 29     NC:158
+ND: 21     NE: 35     NH: 26     NJ:215     NM: 28     NV: 46     NY:318
+OH:216     OK: 73     OR: 68     PA:248     RI: 21     SC: 56     SD: 19
+TN:105     TX:469     UT: 45     VA:138     VT: 25     WA:131     WI:136
+WV: 33     WY: 17
+
+Found 54 unique ages
+Amount of people by age: 
+     23: 36     24:105     25:112     26:136     27:131
+     28:116     29:113     30:112     31:112     32:110
+     33:125     34:108     35:120     36:103     37:116
+     38:103     39:121     40:129     41:106     42:112
+     43:135     44:112     45:105     46:123     47:112
+     48:117     49:125     50:118     51:107     52:102
+     53:109     54:103     55:102     56:103     57:108
+     58:115     59:128     60:100     61: 96     62: 98
+     63:127     64:112     65:127     66:123     67:105
+     68:109     69:108     70:105     71:120     72:115
+     73:120     74:118     75:101     76: 66
